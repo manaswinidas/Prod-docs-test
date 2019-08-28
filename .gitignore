@@ -2,7 +2,7 @@
 /local
 
 # Eclipse, Netbeans and IntelliJ files
-/.*
+.project
 !.gitignore
 /nbproject
 /*.ipr
@@ -16,5 +16,4 @@
 /**/*.xpr
 
 # temporary text editor files ended in tilde
-*~
-
+.settings/

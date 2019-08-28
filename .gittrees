@@ -1,0 +1,4 @@
+[subtree "kie-docs/doc-content/drools-docs/src/main/asciidoc/DMN"]
+	url = git@github.com:manaswinidas/DMN.git
+	path = kie-docs/doc-content/drools-docs/src/main/asciidoc/DMN
+	branch = master
