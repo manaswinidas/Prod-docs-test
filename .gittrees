@@ -2,7 +2,3 @@
 	url = git@github.com:manaswinidas/DMN.git
 	path = doc-content/drools-docs/src/main/asciidoc/DMN
 	branch = master
-[subtree "DMN"]
-	url = git@github.com:manaswinidas/DMN.git
-	path = DMN
-	branch = master
